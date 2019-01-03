@@ -1,6 +1,8 @@
 # Kakao-arena  
 # shopping-classification  
 `쇼핑몰 상품 카테고리 분류`  
+## 팀 이름  
+Gladidator  
 ## 사용 언어
 python3
 ## config.json  
