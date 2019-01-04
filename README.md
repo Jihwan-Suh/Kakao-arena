@@ -9,6 +9,10 @@ python3
  "num_epochs": 100 → 200  
  "batch_size": 1024 → 512  
 num_epochs와 batch_size를 수정하여 학습을 진행  
+
+## 제출 관련
+python classifier.py로 test 예측 결과 재현이 가능하고, 모델 생성이 재현 가능합니다.
+
 ## 라이선스
 
 This software is licensed under the Apache 2 license, quoted below.
