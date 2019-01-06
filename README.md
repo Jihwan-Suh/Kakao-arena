@@ -12,6 +12,7 @@ num_epochs와 batch_size를 수정하여 학습을 진행
 
 ## 제출 관련
 python classifier.py로 test 예측 결과 재현이 가능하고, 모델 생성이 재현 가능합니다.
+모델: https://drive.google.com/drive/folders/1iNWpt1Ub0u1-wpOb-m-_Uqj1TREzDOQW
 
 ## 라이선스
 
